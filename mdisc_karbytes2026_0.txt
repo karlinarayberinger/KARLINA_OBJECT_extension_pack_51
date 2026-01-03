@@ -386,7 +386,7 @@ M_DISC 2 of 2 data collection size: approximately 21 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_0: // folder contains exactly 22 files (approximately 19114.74 megabytes total).
+karbytes2026_0: // folder contains exactly 22 files (approximately 19162.36 megabytes total).
 
     - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
 
@@ -422,13 +422,13 @@ karbytes2026_0: // folder contains exactly 22 files (approximately 19114.74 mega
 
     - zip_file_16: KARLINA_OBJECT_extension_pack_50-main.zip // 790.2 megabytes
 
-    - zip_file_17: KARLINA_OBJECT_extension_pack_51-main_02january2026.zip // 43.7 megabytes
+    - zip_file_17: KARLINA_OBJECT_extension_pack_51-main_02january2026.zip // 93.7 megabytes
 
     - zip_file_18: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
     - zip_file_19: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_20: karbytes_wayback_machine_saves_precision_batches_extension_1-main_02january2026.zip // 25.4 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_20: karbytes_wayback_machine_saves_precision_batches_extension_1-main_02january2026.zip // 25.5 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
     - zip_file_21: karbytes_basement_46-main.zip // 94.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
