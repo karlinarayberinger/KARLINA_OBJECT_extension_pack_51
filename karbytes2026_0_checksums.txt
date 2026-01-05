@@ -28,7 +28,7 @@ file_9: KARBYTES_FOR_LIFE_BLOG-main_05january2026.zip // SHA-256: 5075c838e60708
 
 file_10: KARBYTES_BLOG_APPS-main_02december2025.zip // SHA-256: e40df914912396d6516b21fd091338413e363f1e0c11ee05af48bb2fdd7c1a67
 
-file_11: KARLINA_OBJECT_extension_pack_51-main_05january2026.zip // SHA-256: fbae4c0d8737759c9a43edb80feaa651864af4ba0b992b2f565a02c5b9d040a2
+file_11: KARLINA_OBJECT_extension_pack_51-main_05january2026.zip // SHA-256: 041c6dac34632b42d6fdc1932ef4adda95b2c3d03a70d2417ce323b3b7a59c25
 
 file_12: karbytes_human_genome_fasta_part_2-main.zip // SHA-256: 4e62654721dc5fb1a0c1507ac2f686fa0219f73a93d5d3d135c3e12ac62e74a2
 
