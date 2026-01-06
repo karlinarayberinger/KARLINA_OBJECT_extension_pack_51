@@ -628,7 +628,7 @@ The application now works on my machine! :)
 
 ChatGPT:
 
-That’s great to hear 🙂
+That’s great to hear ☺︎
 Nice, clean win — especially since you got it working without pip, which fits your preference for deterministic, auditable setups.
 
 You now have:
