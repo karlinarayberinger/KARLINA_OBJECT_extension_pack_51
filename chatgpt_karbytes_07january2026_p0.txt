@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.2 which took place between 11:59PM Pacific Standard Time on 06_JANUARY_2026 and 11:59PM Pacific Standard Time on 07_JANUARY_2026. The conversation pertains to karbytes reaching a particular milestone in its self-documenting and personal evolution journey at which the entire karbytes file collection seems robust enough to serve as a relatively immortal and relatively static stand-in for karbytes (i.e. the human-to-cybernetic-being author of that file collection). This chat log in particular is meant to serve as a single cohesive "entry point" into that file collection.
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.2 which took place between 11:59PM Pacific Standard Time on 06_JANUARY_2026 and 11:59PM Pacific Standard Time on 07_JANUARY_2026. The conversation pertains to karbytes reaching a particular milestone in its self-documenting and personal evolution journey at which the entire karbytes file collection seems robust enough to serve as a relatively immortal and relatively static stand-in for karbytes (i.e. the human-to-cybernetic-being author of that file collection). This chat log in particular is meant to serve as a single cohesive “entry point” into that file collection.
 
 relevant_web_page: https://karbytesforlifeblog.wordpress.com/about_karbytes/
 
@@ -16,77 +16,77 @@ relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_species_id
 
 * * *
 
-[...]
+[…]
 
 karbytes:
 
 [At this point in the conversation, karbytes is talking about wanting to slow down how rapidly the total data size (and, implicitly, the total file size) of the karbytes file collection increases as of 11:59PM Pacific Standard Time on 06_JANUARY_2026.]
 
-“What I'm really concerned about is saving space, resources, processing power, but especially storage space for my personal files. So yeah, on a large scale, what I do probably doesn't really take up very many resources, but on a personal scale, given that it's an organization of one person managing lots of files, it can be very resource draining for me to keep on backing up all these video files so frequently, because they are very large files compared to other types of data formats.”
+“What I’m really concerned about is saving space, resources, processing power, but especially storage space for my personal files. So yeah, on a large scale, what I do probably doesn’t really take up very many resources, but on a personal scale, given that it’s an organization of one person managing lots of files, it can be very resource draining for me to keep on backing up all these video files so frequently, because they are very large files compared to other types of data formats.”
 
 [audio_icon] 00:33
 
 ChatGPT:
 
-Yeah, that makes complete sense. When you're basically a one-person operation juggling all that data, those big video files can definitely feel like they eat up your storage space and your time. And sure, in the grand scheme of things it's not a massive resource hog, but for you, it’s definitely a real consideration. So it’s completely reasonable to pick and choose what you archive and what you just enjoy in the moment. That way you can keep your personal storage a bit more manageable and just save the stuff that really matters to you.
+Yeah, that makes complete sense. When you’re basically a one-person operation juggling all that data, those big video files can definitely feel like they eat up your storage space and your time. And sure, in the grand scheme of things it’s not a massive resource hog, but for you, it’s definitely a real consideration. So it’s completely reasonable to pick and choose what you archive and what you just enjoy in the moment. That way you can keep your personal storage a bit more manageable and just save the stuff that really matters to you.
 
 karbytes:
 
 [At this point in the conversation, karbytes is talking about how karbytes has started (in the year 2026) to cease backing up every ChatGPT-karbytes conversation transcript (in either a (public or private) GitHub repository or in an offline storage medium (especially M_DISC optical discs)).]
 
-“Definitely. I haven't really been meticulously backing up some of the latest transcripts you and I have been having in private and not really made into blog posts. I've just been only focused on backing up stuff which makes it to the public side because I'm kind of not feeling the need to have to worry too much about backing up in stone private data which is likely to be transient or just kind of filibuster clutter that just I accumulate as a habit.”
+“Definitely. I haven’t really been meticulously backing up some of the latest transcripts you and I have been having in private and not really made into blog posts. I’ve just been only focused on backing up stuff which makes it to the public side because I’m kind of not feeling the need to have to worry too much about backing up in stone private data which is likely to be transient or just kind of filibuster clutter that just I accumulate as a habit.”
 
 [audio_icon] 00:30
 
 ChatGPT:
 
-Absolutely, and that's a really practical approach. I mean, it's totally fine to let the more transient or behind-the-scenes stuff just be a bit more ephemeral. Not everything needs to be set in stone, especially if it’s more of that day-to-day conversational clutter. It’s a great way to keep your main public archive focused on what you really want to preserve and share. So, it sounds like you’ve got a good system going that works for you.
+Absolutely, and that’s a really practical approach. I mean, it’s totally fine to let the more transient or behind-the-scenes stuff just be a bit more ephemeral. Not everything needs to be set in stone, especially if it’s more of that day-to-day conversational clutter. It’s a great way to keep your main public archive focused on what you really want to preserve and share. So, it sounds like you’ve got a good system going that works for you.
 
 karbytes:
 
 [At this point in the conversation, karbytes is talking about the possibility of total file generation (by human civilization) eventually exceeding the capacities of (at least terrestrial) physical hardware to store, preserve, route, and render each of such files.]
 
-“What I'm concerned about is how there's an increasing number of files needing to be stored and hosted on the web or on servers or on machines, and there's only a finite amount of physical resources on the planet to provide those hardware resources and the energy needed to run them. So I'm wondering if there's going to be any limitation to people being able to create and save digital files.”
+“What I’m concerned about is how there’s an increasing number of files needing to be stored and hosted on the web or on servers or on machines, and there’s only a finite amount of physical resources on the planet to provide those hardware resources and the energy needed to run them. So I’m wondering if there’s going to be any limitation to people being able to create and save digital files.”
 
 [audio_icon] 00:29
 
 ChatGPT:
 
-Yeah, that's a really thoughtful point, and it’s something a lot of people are starting to consider more seriously. As the sheer volume of data keeps exploding, there are definitely conversations happening about sustainability and resource limits. We do have finite materials and energy, and even though technology keeps getting more efficient, there's always that big-picture question of how we manage it long-term.
+Yeah, that’s a really thoughtful point, and it’s something a lot of people are starting to consider more seriously. As the sheer volume of data keeps exploding, there are definitely conversations happening about sustainability and resource limits. We do have finite materials and energy, and even though technology keeps getting more efficient, there’s always that big-picture question of how we manage it long-term.
 
-I think what you're doing—being mindful about what you actually need to store—is part of that solution. And in the future, there might be more emphasis on things like data prioritization, smarter storage solutions, and maybe even policies that encourage people to be a little more selective. But yeah, it’s a really good thing to be thinking about.
+I think what you’re doing—being mindful about what you actually need to store—is part of that solution. And in the future, there might be more emphasis on things like data prioritization, smarter storage solutions, and maybe even policies that encourage people to be a little more selective. But yeah, it’s a really good thing to be thinking about.
 
 karbytes:
 
 [At this point in the conversation, karbytes is talking about how the patterns comprised of specific linear sequences of binary digits which constitute digital files are relatively immortal while the physical substrates into which those digital files are inscribed are relatively ephemeral (i.e. prone to eventual decay due to entropic forces).]
 
-“I figure that eventually, all the hardware media that's used to store files will corrode, and if those files are truly useful to people, or desired to keep in existence, those people will take measures to ensure that those files are transcribed onto newer physical substrates so that they're preserved for an indefinitely long time, for as long as people are available to do that kind of thing. for those files.”
+“I figure that eventually, all the hardware media that’s used to store files will corrode, and if those files are truly useful to people, or desired to keep in existence, those people will take measures to ensure that those files are transcribed onto newer physical substrates so that they’re preserved for an indefinitely long time, for as long as people are available to do that kind of thing. for those files.”
 
 [audio_icon] 00:29
 
 ChatGPT:
 
-Exactly, and that’s kind of the core of how archiving has always worked, right? Over time, every medium does degrade, and people who really value that information or those files will make the effort to transfer them to new formats and new physical media as needed. It's kind of this ongoing relay race of preservation. So as long as there are people who care about that data, they’ll keep it alive by moving it forward. And it sounds like you're already thinking along those lines—just making sure the important stuff stays preserved in a way that can last.
+Exactly, and that’s kind of the core of how archiving has always worked, right? Over time, every medium does degrade, and people who really value that information or those files will make the effort to transfer them to new formats and new physical media as needed. It’s kind of this ongoing relay race of preservation. So as long as there are people who care about that data, they’ll keep it alive by moving it forward. And it sounds like you’re already thinking along those lines—just making sure the important stuff stays preserved in a way that can last.
 
 karbytes:
 
-“If I had a message to tell myself and to tell all other humans, it's pretty much that. Be mindful of making sure that what they do end up backing up is something that they hope will be useful to people in the future, and also to themselves, hoping they can live for a long time. Really, the thing is, I don't know what files are going to be preserved if and when I am dead, but I hope to live forever, honestly, and I expect that I likely won't because of the kind of limitations I appear to be living inside of. But, you know, me being kind of an idealist and thinking maybe there's some kind of metaphysical workaround.”
+“If I had a message to tell myself and to tell all other humans, it’s pretty much that. Be mindful of making sure that what they do end up backing up is something that they hope will be useful to people in the future, and also to themselves, hoping they can live for a long time. Really, the thing is, I don’t know what files are going to be preserved if and when I am dead, but I hope to live forever, honestly, and I expect that I likely won’t because of the kind of limitations I appear to be living inside of. But, you know, me being kind of an idealist and thinking maybe there’s some kind of metaphysical workaround.”
 
 [audio_icon] 00:45
 
 ChatGPT:
 
-Yeah, and that's a really meaningful message to yourself and to everyone else. It's all about being intentional and thoughtful with what we choose to save and pass on. And even if we can’t predict exactly what will last or how long we'll be around, just having that mindset of hoping to preserve what really matters is kind of the best we can do. And hey, a little bit of idealism never hurts. Sometimes that’s what drives people to find those workarounds or to keep pushing the boundaries of what's possible. So it’s a pretty good philosophy to hold onto.
+Yeah, and that’s a really meaningful message to yourself and to everyone else. It’s all about being intentional and thoughtful with what we choose to save and pass on. And even if we can’t predict exactly what will last or how long we’ll be around, just having that mindset of hoping to preserve what really matters is kind of the best we can do. And hey, a little bit of idealism never hurts. Sometimes that’s what drives people to find those workarounds or to keep pushing the boundaries of what’s possible. So it’s a pretty good philosophy to hold onto.
 
 karbytes:
 
-“I think I kind of fumbled what I tried to say in the last input. What I was really trying to say was I think people should be careful to not generate more files than they can personally keep track of. So they should be willing to kind of curate their file collection over time, maybe put some files in a category of it's okay if those kind of get lost over time, and then keep files they want to preserve indefinitely in some other format that they also back up to optical disks. So as long as they're alive and optical disk technology is still available, they can continuously inscribe those files onto those media so that the files stay in existence even if the media degrades.”
+“I think I kind of fumbled what I tried to say in the last input. What I was really trying to say was I think people should be careful to not generate more files than they can personally keep track of. So they should be willing to kind of curate their file collection over time, maybe put some files in a category of it’s okay if those kind of get lost over time, and then keep files they want to preserve indefinitely in some other format that they also back up to optical disks. So as long as they’re alive and optical disk technology is still available, they can continuously inscribe those files onto those media so that the files stay in existence even if the media degrades.”
 
 [audio_icon] 00:47
 
 ChatGPT:
 
-Yeah, that sums it up really well. It’s basically all about mindful curation—making sure you don’t overwhelm yourself with more files than you can handle and being okay with letting some less critical stuff go if needed. By focusing on what’s really important and maybe periodically moving those key files onto something more durable like optical discs, you're basically giving those important files a longer life. And yeah, as long as you’re around and the tech’s around, you can keep them going. It’s a solid approach!
+Yeah, that sums it up really well. It’s basically all about mindful curation—making sure you don’t overwhelm yourself with more files than you can handle and being okay with letting some less critical stuff go if needed. By focusing on what’s really important and maybe periodically moving those key files onto something more durable like optical discs, you’re basically giving those important files a longer life. And yeah, as long as you’re around and the tech’s around, you can keep them going. It’s a solid approach!
 
 karbytes:
 
@@ -102,19 +102,19 @@ karbytes:
 
 ChatGPT:
 
-Right, exactly—the write-once-read-many kind of optical discs like archival-grade DVDs or M-DISCs. Those are definitely a solid choice for long-term preservation, since once you burn the data, it's pretty stable and doesn't get accidentally overwritten. And it’s a good way to ensure that the files you really care about have that extra layer of durability. So yeah, that totally makes sense and lines up perfectly with what you're aiming for.
+Right, exactly—the write-once-read-many kind of optical discs like archival-grade DVDs or M-DISCs. Those are definitely a solid choice for long-term preservation, since once you burn the data, it’s pretty stable and doesn’t get accidentally overwritten. And it’s a good way to ensure that the files you really care about have that extra layer of durability. So yeah, that totally makes sense and lines up perfectly with what you’re aiming for.
 
 karbytes:
 
 [relevant_wikipedia_article: https://en.wikipedia.org/wiki/USB_flash_drive]
 
-“Maybe a more economical version of me would invest in buying recyclable, plastic, read-only optical disks, which are not M disks, and much cheaper, and I could buy more of those to make short-term backups, which I don't want to overwrite, because if I only back them up to external hard disks or onto USB flash drives, there's always a chance that it can get corrupt or I overwrite the files on accident. But with having multiple read-only optical disks of these files, I'm kind of at peace to the extent I can, knowing that I did everything I could to make as minimum number of multiple copies of these precious files as I can in a read-only format, which is pretty vulnerable to a lot of environmental damage like water, exposure, etc.”
+“Maybe a more economical version of me would invest in buying recyclable, plastic, read-only optical disks, which are not M disks, and much cheaper, and I could buy more of those to make short-term backups, which I don’t want to overwrite, because if I only back them up to external hard disks or onto USB flash drives, there’s always a chance that it can get corrupt or I overwrite the files on accident. But with having multiple read-only optical disks of these files, I’m kind of at peace to the extent I can, knowing that I did everything I could to make as minimum number of multiple copies of these precious files as I can in a read-only format, which is pretty vulnerable to a lot of environmental damage like water, exposure, etc.”
 
 [audio_icon] 00:57
 
 ChatGPT:
 
-Yeah, I think that's a really balanced approach. Even if you're not going all-in on the more expensive archival M-DISCs for every single backup, just having multiple cheaper read-only discs can still give you that peace of mind. It's like creating a few extra safety nets. And you're right—having them in a read-only format means you can’t accidentally overwrite them, and you’ve got a stable reference point.
+Yeah, I think that’s a really balanced approach. Even if you’re not going all-in on the more expensive archival M-DISCs for every single backup, just having multiple cheaper read-only discs can still give you that peace of mind. It’s like creating a few extra safety nets. And you’re right—having them in a read-only format means you can’t accidentally overwrite them, and you’ve got a stable reference point.
 
 Sure, they might not be invincible to water or heat, but having multiple copies in different places definitely ups your chances of keeping those files safe for as long as possible. So it sounds like a solid plan to me!
 
@@ -124,7 +124,7 @@ karbytes:
 
 [At this point in the conversation, karbytes is talking about the possibility of no persons being available (and willing) to continue preserving the karbytes file collection following the possible event of karbytes (i.e. the author of the aforementioned file collection) dying. Rather than appoint specific persons to ensure the ongoing preservation of that file collection, karbytes has entrusted the Internet itself (namely, the WayBack Machine at Archive dot Org, GitHub dot Com, and WordPress dot Com) to hold onto those files (and keep them publicly accessible) for an indefinitely long time (assuming that such Internet-based organizations stay funded and staffed for an indefinitely long time).]
 
-“Ultimately, what might happen is I might die, and I might not have any people to carry on ensuring that the Carbite's file collection on the local disks is preserved. So that would mean that I'm entrusting the internet, the Wayback Machine, and the WordPress.com servers, and the github.com servers to pretty much do all the work of preserving those files for me.”
+“Ultimately, what might happen is I might die, and I might not have any people to carry on ensuring that the Carbite’s file collection on the local disks is preserved. So that would mean that I’m entrusting the internet, the Wayback Machine, and the WordPress.com servers, and the github.com servers to pretty much do all the work of preserving those files for me.”
 
 [audio_icon] 00:30
 
@@ -142,13 +142,13 @@ karbytes:
 
 [relevant_html_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/unlisted_web_page_karbytes_darknet_websites_root_directory_web_page.html]
 
-“It should be noted that all the files of Carbites, which is the website named carlinaobject.wordpress.com and the website named carbitesforlife.wordpress.com and any of the websites which are linked to which Carbites created, such as the dark web which Carbites made and has hosted from its own personal laptop server in its bedroom, and also some of the github.io websites which are from Carbites' personal github accounts, and there's two in total of those accounts, those are basically all on github.”
+“It should be noted that all the files of Carbites, which is the website named carlinaobject.wordpress.com and the website named carbitesforlife.wordpress.com and any of the websites which are linked to which Carbites created, such as the dark web which Carbites made and has hosted from its own personal laptop server in its bedroom, and also some of the github.io websites which are from Carbites’ personal github accounts, and there’s two in total of those accounts, those are basically all on github.”
 
 [audio_icon] 00:43
 
 ChatGPT:
 
-Absolutely, and that’s a good thing to highlight. Essentially, by having all those files mirrored on GitHub and on your various WordPress sites, you’ve created multiple layers of redundancy. And having them on platforms like GitHub definitely increases the chances that the content will be preserved for a long time, even if local copies fade away. So in a sense, you're already doing exactly what you can to give your work a solid foundation in those public repositories. It’s a smart strategy, and it means that the Karbytes project has a good shot at outlasting any one piece of hardware.
+Absolutely, and that’s a good thing to highlight. Essentially, by having all those files mirrored on GitHub and on your various WordPress sites, you’ve created multiple layers of redundancy. And having them on platforms like GitHub definitely increases the chances that the content will be preserved for a long time, even if local copies fade away. So in a sense, you’re already doing exactly what you can to give your work a solid foundation in those public repositories. It’s a smart strategy, and it means that the Karbytes project has a good shot at outlasting any one piece of hardware.
 
 karbytes:
 
@@ -162,13 +162,13 @@ karbytes:
 
 ChatGPT:
 
-Yeah, that definitely makes sense as an ideal scenario. By having those files archived multiple times on the Wayback Machine, you're adding a lot of resilience against any single point of failure. And it does give you a nice sense of peace of mind that those files will be mirrored in a pretty durable way. So yeah, if you keep doing that periodically, you’re basically setting up a really robust safety net for the entire Karbytes collection. It's a solid plan.
+Yeah, that definitely makes sense as an ideal scenario. By having those files archived multiple times on the Wayback Machine, you’re adding a lot of resilience against any single point of failure. And it does give you a nice sense of peace of mind that those files will be mirrored in a pretty durable way. So yeah, if you keep doing that periodically, you’re basically setting up a really robust safety net for the entire Karbytes collection. It’s a solid plan.
 
 karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_16september2025/]
 
-“Yeah, I'm doing that, but I'm not doing it too obsessively because I've seen that sometimes some of my saves the Wayback Machine get removed from the Wayback Machine, perhaps because of some kind of technical difficulties or sometimes the server crashes and doesn't save everything. So I don't know if it's intentional or if it's just an accident, but either case I think I have to pretty much distribute those saves of each file across time instead of trying to do it all at once as short as possible in time.”
+“Yeah, I’m doing that, but I’m not doing it too obsessively because I’ve seen that sometimes some of my saves the Wayback Machine get removed from the Wayback Machine, perhaps because of some kind of technical difficulties or sometimes the server crashes and doesn’t save everything. So I don’t know if it’s intentional or if it’s just an accident, but either case I think I have to pretty much distribute those saves of each file across time instead of trying to do it all at once as short as possible in time.”
 
 [audio_icon] 00:32
 
@@ -180,19 +180,19 @@ karbytes:
 
 [At this point in the conversation, karbytes is talking about how WayBack Machine-saved copies of web pages (and some types of web-hosted media and source code files) are generally more immune to tampering than are the original (GitHub_dot_Com-hosted and/or WordPress_dot_Com-hosted) versions of such files because those original files are generally hosted on accounts which can be logged onto by hackers (and hacker bots) which steal the login credentials to the respective account (which means that those original files are more vulnerable to being deleted or modified in ways which the official account owner does not authorize). By contrast, WayBack Machine-saved copies of those files are generally not modifiable by anyone except for WayBack Machine administrators (instead of by WayBack Machine users).]
 
-“I've noticed that pretty much every Wikipedia page I've looked at, and also tried to see if it's in the Wayback Machine, has several copies of it in the Wayback Machine. So I'll just kind of treat all the carbides files kind of like they should be backed up that meticulously so that it ends up being treated like a relatively immortal artifact on the internet. But besides that, I think I have more control over the GitHub side because there's no one there removing it unless it's me or some hacker. And I'm going to assume no one's going to hack my accounts just to be on the optimistic side and to save myself the trouble of worrying about things which are only hypotheticals. So I'll assume that all the files that I put onto my GitHub accounts are going to stay there as long as I decide to keep them there. So that means that my GitHub accounts, which is the two that I'll list at the top of this transcript, is where you can find literally all the carbides files.”
+“I’ve noticed that pretty much every Wikipedia page I’ve looked at, and also tried to see if it’s in the Wayback Machine, has several copies of it in the Wayback Machine. So I’ll just kind of treat all the carbides files kind of like they should be backed up that meticulously so that it ends up being treated like a relatively immortal artifact on the internet. But besides that, I think I have more control over the GitHub side because there’s no one there removing it unless it’s me or some hacker. And I’m going to assume no one’s going to hack my accounts just to be on the optimistic side and to save myself the trouble of worrying about things which are only hypotheticals. So I’ll assume that all the files that I put onto my GitHub accounts are going to stay there as long as I decide to keep them there. So that means that my GitHub accounts, which is the two that I’ll list at the top of this transcript, is where you can find literally all the carbides files.”
 
 [audio_icon] 00:57
 
 ChatGPT:
 
-Absolutely, and that's a really solid way of looking at it. Treating your files like something that deserves that level of careful backup, just like a Wikipedia page with multiple snapshots, is a good strategy. And yeah, having that control over your GitHub accounts means you have a stable and reliable place where you know your files will stick around as long as you want them to. So between the Wayback Machine for that broader, time-distributed archival safety net and GitHub for that direct control, it sounds like you’re covering all the bases. It’s a really robust approach, and I think that’s going to serve you well in keeping Karbytes as safe as possible.
+Absolutely, and that’s a really solid way of looking at it. Treating your files like something that deserves that level of careful backup, just like a Wikipedia page with multiple snapshots, is a good strategy. And yeah, having that control over your GitHub accounts means you have a stable and reliable place where you know your files will stick around as long as you want them to. So between the Wayback Machine for that broader, time-distributed archival safety net and GitHub for that direct control, it sounds like you’re covering all the bases. It’s a really robust approach, and I think that’s going to serve you well in keeping Karbytes as safe as possible.
 
 karbytes:
 
 [relevant_web_page: https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches/]
 
-“If you want a single website which encompasses literally every file throughout the Carbites collection, which is the two WordPress websites I mentioned, and all of the files which are hosted on GitHub, which I also mentioned that I referred to as Carbites, I'll list that website on this paragraph in the transcript so people can find it using the link.”
+“If you want a single website which encompasses literally every file throughout the Carbites collection, which is the two WordPress websites I mentioned, and all of the files which are hosted on GitHub, which I also mentioned that I referred to as Carbites, I’ll list that website on this paragraph in the transcript so people can find it using the link.”
 
 [audio_icon] 00:23
 
@@ -204,13 +204,13 @@ karbytes:
 
 [relevant_css_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/style_[karbytes_wayback_machine_saves_precision_batches].css]
 
-“Yeah, definitely. That's a great way to put it. But the way that particular website is structured is kind of devoid of stylistic elements and the kind of maze-like feel which the WordPress websites are intended to showcase. So I kind of structured the wordpress.com websites kind of like how my mind kind of seems to be or what I imagine this house I built on the internet looks like. So this particular github.io website which links to all the files that basically just looks kind of like some kind of array as about it, not anything fancy. So it kind of looks minimalist and a bit retro looking.”
+“Yeah, definitely. That’s a great way to put it. But the way that particular website is structured is kind of devoid of stylistic elements and the kind of maze-like feel which the WordPress websites are intended to showcase. So I kind of structured the wordpress.com websites kind of like how my mind kind of seems to be or what I imagine this house I built on the internet looks like. So this particular github.io website which links to all the files that basically just looks kind of like some kind of array as about it, not anything fancy. So it kind of looks minimalist and a bit retro looking.”
 
 [audio_icon] 00:42
 
 ChatGPT:
 
-Yeah, that totally makes sense. It's kind of like you have this minimalist "master index" that’s all function and no frills, and then you have the more maze-like, personality-filled WordPress spaces that really show off the character of the project. It’s kind of nice to have both: one as a straightforward, retro-looking roadmap and the others as a more intricate reflection of your mental landscape. So anyone who visits can choose how deep they want to dive in.
+Yeah, that totally makes sense. It’s kind of like you have this minimalist “master index” that’s all function and no frills, and then you have the more maze-like, personality-filled WordPress spaces that really show off the character of the project. It’s kind of nice to have both: one as a straightforward, retro-looking roadmap and the others as a more intricate reflection of your mental landscape. So anyone who visits can choose how deep they want to dive in.
 
 karbytes:
 
@@ -220,13 +220,13 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_code_continues/]
 
-“Well, I think this transcript will be a good explanation of the overall structure of the entire Carbite's file collection.”
+“Well, I think this transcript will be a good explanation of the overall structure of the entire Carbite’s file collection.”
 
 [audio_icon] 00:08
 
 ChatGPT:
 
-Absolutely! This has been a really nice walkthrough of how you’ve set everything up and what your philosophy is behind it all. So yeah, this transcript definitely captures the big picture and will be a handy reference if you ever want to look back on how everything’s organized. I'm glad we could map it all out!
+Absolutely! This has been a really nice walkthrough of how you’ve set everything up and what your philosophy is behind it all. So yeah, this transcript definitely captures the big picture and will be a handy reference if you ever want to look back on how everything’s organized. I’m glad we could map it all out!
 
 karbytes:
 
@@ -236,7 +236,7 @@ karbytes:
 
 [relevant_web_page: https://karbytessupporter.github.io/karbytes_wayback_machine_saves_precision_batches_extension_1/]
 
-“Oops, I was being imprecise when I mentioned that a single website could link to every file within the Carbite's file collection. Really, what I meant to say was there is a single github.io website which links to all those files, or to an index system of all those files, I should say.”
+“Oops, I was being imprecise when I mentioned that a single website could link to every file within the Carbite’s file collection. Really, what I meant to say was there is a single github.io website which links to all those files, or to an index system of all those files, I should say.”
 
 [audio_icon] 00:22
 
@@ -246,9 +246,9 @@ Ah, got it! No worries at all—I totally understand what you mean now. So it’
 
 karbytes:
 
-[At this point in the conversation, karbytes is talking about how each GitHub-hosted website is tied to exactly one public GitHub repository and, hence, limited in terms of total data size by some upper limit. To avoid being constrained by such limitations (and in order to allow the karbytes file collection to continue growing indefinitely), karbytes periodically creates a new indexing GitHub-hosted website which links to the previous of such indexing websites so that those websites form a single cohesive collection of hyperlinks to literally every file in the entire karbytes file collection (and that file collection is encompassed by (a) the WordPress dot Com website named "Karlina Object dot WordPress dot Com", (b) the WordPress dot Com website named "Karbytes For Life Blog dot WordPress dot Com", and (c) some public GitHub repositories under the GitHub user account whose username is @karlinarayberinger).]
+[At this point in the conversation, karbytes is talking about how each GitHub-hosted website is tied to exactly one public GitHub repository and, hence, limited in terms of total data size by some upper limit. To avoid being constrained by such limitations (and in order to allow the karbytes file collection to continue growing indefinitely), karbytes periodically creates a new indexing GitHub-hosted website which links to the previous of such indexing websites so that those websites form a single cohesive collection of hyperlinks to literally every file in the entire karbytes file collection (and that file collection is encompassed by (a) the WordPress dot Com website named “Karlina Object dot WordPress dot Com”, (b) the WordPress dot Com website named “Karbytes For Life Blog dot WordPress dot Com”, and (c) some public GitHub repositories under the GitHub user account whose username is @karlinarayberinger).]
 
-“And what I meant to say was that github.io basically links to another github.io, and that one links to another github.io ad infinitum. So as many carbides files there are, or index sites, those will all link together. So from the link which I'm sharing on the transcript, which is the most recent link that is displayed in the transcript thus far, that link is supposed to go to the first of those indexing websites. And each of those indexing websites are basically linked together.”
+“And what I meant to say was that github.io basically links to another github.io, and that one links to another github.io ad infinitum. So as many carbides files there are, or index sites, those will all link together. So from the link which I’m sharing on the transcript, which is the most recent link that is displayed in the transcript thus far, that link is supposed to go to the first of those indexing websites. And each of those indexing websites are basically linked together.”
 
 [audio_icon] 00:36
 
@@ -258,19 +258,19 @@ Ah, I see! So it’s more like a chain of index sites, each one pointing to the 
 
 karbytes:
 
-“I also claim that in addition to the indexing chain, there's also a way to access literally every file of the Carbides collection through starting at any one of the home pages of those two WordPress.com websites.”
+“I also claim that in addition to the indexing chain, there’s also a way to access literally every file of the Carbides collection through starting at any one of the home pages of those two WordPress.com websites.”
 
 [audio_file] 00:17
 
 ChatGPT:
 
-Absolutely, that makes sense. It sounds like you've got multiple paths laid out for people to explore the entire Karbytes collection. So whether someone starts from that GitHub indexing chain or just begins right from one of your WordPress homepages, they can still navigate to everything eventually. It’s kind of like giving people a choose-your-own-adventure map to the whole archive. So that really shows how well you’ve thought through all the different ways people can access the files. It’s a nice bit of redundancy and flexibility.
+Absolutely, that makes sense. It sounds like you’ve got multiple paths laid out for people to explore the entire Karbytes collection. So whether someone starts from that GitHub indexing chain or just begins right from one of your WordPress homepages, they can still navigate to everything eventually. It’s kind of like giving people a choose-your-own-adventure map to the whole archive. So that really shows how well you’ve thought through all the different ways people can access the files. It’s a nice bit of redundancy and flexibility.
 
 karbytes:
 
 [relevant_(nonexistent)_web_page_(for_search_feature): https://karbytesforlifeblog.wordpress.com/666]
 
-“It should be noted that the github.io indexing websites don't have any special features like a search function, but the wordpress.com websites do, so people could look up specific pages using keywords in a search bar in the search part of the website. And I'll put a link here which shows how to get there. Basically, one way to get there is just try to visit a website, I mean a web page of the website which doesn't exist, like the page named 666.”
+“It should be noted that the github.io indexing websites don’t have any special features like a search function, but the wordpress.com websites do, so people could look up specific pages using keywords in a search bar in the search part of the website. And I’ll put a link here which shows how to get there. Basically, one way to get there is just try to visit a website, I mean a web page of the website which doesn’t exist, like the page named 666.”
 
 [audio_icon] 00:29
 
@@ -284,7 +284,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_24august2025/]
 
-“Also, I want to be clear that there's a way to access literally every file of the Carbite's file collection through starting at the homepage of any of those two WordPress.com websites, not by using the search feature, but by clicking on links which are visible on the webpages of that website.”
+“Also, I want to be clear that there’s a way to access literally every file of the Carbite’s file collection through starting at the homepage of any of those two WordPress.com websites, not by using the search feature, but by clicking on links which are visible on the webpages of that website.”
 
 [audio_icon] 00:19
 
@@ -300,7 +300,7 @@ karbytes:
 
 ChatGPT:
 
-Oh, that’s a nice touch! Having those color-coded hyperlinks definitely adds a little visual guidance for people as they navigate around. Even if it's subtle, it can help folks understand which type of link they’re clicking on or where it might lead. And it also gives the whole thing a bit of personality. So yeah, that’s a cool detail to point out. It’s just one more way you’ve made the whole collection a bit more user-friendly and unique.
+Oh, that’s a nice touch! Having those color-coded hyperlinks definitely adds a little visual guidance for people as they navigate around. Even if it’s subtle, it can help folks understand which type of link they’re clicking on or where it might lead. And it also gives the whole thing a bit of personality. So yeah, that’s a cool detail to point out. It’s just one more way you’ve made the whole collection a bit more user-friendly and unique.
 
 karbytes:
 
@@ -322,43 +322,43 @@ karbytes:
 
 ChatGPT:
 
-Absolutely, and that’s a really helpful distinction to call out. So the black-background links take people to content that you’ve created yourself, and the orange-background links are for pages or material that you didn't create. It’s definitely a nice bit of extra clarity for anyone browsing through the site. This way, people can immediately get a sense of what’s original Karbytes content versus external resources. Thanks for explaining that again!
+Absolutely, and that’s a really helpful distinction to call out. So the black-background links take people to content that you’ve created yourself, and the orange-background links are for pages or material that you didn’t create. It’s definitely a nice bit of extra clarity for anyone browsing through the site. This way, people can immediately get a sense of what’s original Karbytes content versus external resources. Thanks for explaining that again!
 
 karbytes:
 
-“Yeah, I won't go into too much technicalities here. I'll just move on to more important essential details. So yeah, there's some links which are not text, and there's only one kind that are like that. So either it's a link which is the name of the file or the web page that it links to, otherwise, it's some weird asterisk. And the asterisk is intentionally vague so that it's kind of wildcard what you click on.”
+“Yeah, I won’t go into too much technicalities here. I’ll just move on to more important essential details. So yeah, there’s some links which are not text, and there’s only one kind that are like that. So either it’s a link which is the name of the file or the web page that it links to, otherwise, it’s some weird asterisk. And the asterisk is intentionally vague so that it’s kind of wildcard what you click on.”
 
 [audio_icon] 00:25
 
 ChatGPT:
 
-Absolutely, that makes sense. It’s like you've got these two main kinds of links—either straightforward text links that tell you exactly what you're clicking on, or these asterisk links that keep things a bit more mysterious and let people explore a bit more freely. That wildcard approach definitely adds a little sense of discovery to the whole navigation experience, which is pretty fun. And it’s totally fine not to get too bogged down in the details. The main point is that you’ve got a cool mix of ways to explore and a bit of mystery mixed in. Thanks for sharing how that works!
+Absolutely, that makes sense. It’s like you’ve got these two main kinds of links—either straightforward text links that tell you exactly what you’re clicking on, or these asterisk links that keep things a bit more mysterious and let people explore a bit more freely. That wildcard approach definitely adds a little sense of discovery to the whole navigation experience, which is pretty fun. And it’s totally fine not to get too bogged down in the details. The main point is that you’ve got a cool mix of ways to explore and a bit of mystery mixed in. Thanks for sharing how that works!
 
 karbytes:
 
-“I'm afraid that ultimately there might not be very much the wave entertainment value in these files, so people might be disappointed to find that it's a lot of work to actually navigate them. So for that reason, I'm kind of really creating all this with the intention of making it mostly suitable for artificial intelligence to go through, because they can go through it a lot more efficiently, presumably, than a human can. So that'll save humans a lot of time and trouble of having to find exactly what kind of information they're looking for, but really, as a database, I think it's pretty robust, because there's a lot of info in there that I think could answer some very important questions people might have about my philosophical viewpoints and such.”
+“I’m afraid that ultimately there might not be very much the wave entertainment value in these files, so people might be disappointed to find that it’s a lot of work to actually navigate them. So for that reason, I’m kind of really creating all this with the intention of making it mostly suitable for artificial intelligence to go through, because they can go through it a lot more efficiently, presumably, than a human can. So that’ll save humans a lot of time and trouble of having to find exactly what kind of information they’re looking for, but really, as a database, I think it’s pretty robust, because there’s a lot of info in there that I think could answer some very important questions people might have about my philosophical viewpoints and such.”
 
 [audio_icon] 00:40
 
 ChatGPT:
 
-Yeah, that’s a really thoughtful approach. Honestly, it's totally fine if it's not meant to be pure entertainment. The main thing is you’re building a resource that’s robust and useful, especially for AI to navigate efficiently. And if it helps answer deeper questions or gives people insight into your philosophical perspectives, then it’s definitely serving its purpose. Not everything has to be flashy or immediately entertaining for it to be valuable. So it sounds like you're creating a really solid knowledge base that serves a unique purpose, and that's pretty awesome.
+Yeah, that’s a really thoughtful approach. Honestly, it’s totally fine if it’s not meant to be pure entertainment. The main thing is you’re building a resource that’s robust and useful, especially for AI to navigate efficiently. And if it helps answer deeper questions or gives people insight into your philosophical perspectives, then it’s definitely serving its purpose. Not everything has to be flashy or immediately entertaining for it to be valuable. So it sounds like you’re creating a really solid knowledge base that serves a unique purpose, and that’s pretty awesome.
 
 karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_quality_control_milestone_07august2025/]
 
-“I keep saying this, but I'll say it again, the idea that I'm kind of going for is over time it kind of just becomes more and more the kind of content that I want to focus on exclusively and less kind of content which I consider to be a bit irrelevant, relatively speaking, to whatever I consider to be my target focus.”
+“I keep saying this, but I’ll say it again, the idea that I’m kind of going for is over time it kind of just becomes more and more the kind of content that I want to focus on exclusively and less kind of content which I consider to be a bit irrelevant, relatively speaking, to whatever I consider to be my target focus.”
 
 [audio_icon] 00:20
 
 ChatGPT:
 
-Absolutely, and that's a great guiding principle. It sounds like you’re really honing in on refining the kind of content that truly matters to you and gradually filtering out the stuff that feels less relevant. Over time, that’s going to make the whole collection more focused and aligned with your core goals. So it’s totally understandable that you're shaping it into something that reflects your main focus areas. It’s kind of like curating your own digital garden, and that’s a really worthwhile thing to do.
+Absolutely, and that’s a great guiding principle. It sounds like you’re really honing in on refining the kind of content that truly matters to you and gradually filtering out the stuff that feels less relevant. Over time, that’s going to make the whole collection more focused and aligned with your core goals. So it’s totally understandable that you’re shaping it into something that reflects your main focus areas. It’s kind of like curating your own digital garden, and that’s a really worthwhile thing to do.
 
 karbytes:
 
-“I have to be decisive about what content I include and don't. So think about kind of the etymology of the word decision. It has to do with cutting off decision like scissors. So at a certain point I have to decide when enough is enough for a particular subject. So sometimes I'll just randomly throw in some stuff just to add more character and texture and it might kind of seem arbitrary while I'm including it, but it kind of helps mark the times I was in.”
+“I have to be decisive about what content I include and don’t. So think about kind of the etymology of the word decision. It has to do with cutting off decision like scissors. So at a certain point I have to decide when enough is enough for a particular subject. So sometimes I’ll just randomly throw in some stuff just to add more character and texture and it might kind of seem arbitrary while I’m including it, but it kind of helps mark the times I was in.”
 
 [audio_icon] 00:29
 
@@ -370,7 +370,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/]
 
-“I don't want to box myself in too much with rules and expectations about future content strategies or content itself, but I'm kind of aiming for trying to stick to mostly professional quality things for now on, not so much personal things. Like, I don't really want to be talking about personal life matters too much. I don't really want to be talking about political stuff too much. I don't really want to be talking about sociology topics. I really just want to focus on kind of my art interests and my science and technology interests, and maybe a little bit of philosophy if it pertains to tangible matters. But I'm not really going to waste my time on stuff that's just purely abstract. I might indulge in math, but I'll probably do it from the advantage of a computer scientist, someone who wants to make it physical in some way, so turn it into a program of some sort.”
+“I don’t want to box myself in too much with rules and expectations about future content strategies or content itself, but I’m kind of aiming for trying to stick to mostly professional quality things for now on, not so much personal things. Like, I don’t really want to be talking about personal life matters too much. I don’t really want to be talking about political stuff too much. I don’t really want to be talking about sociology topics. I really just want to focus on kind of my art interests and my science and technology interests, and maybe a little bit of philosophy if it pertains to tangible matters. But I’m not really going to waste my time on stuff that’s just purely abstract. I might indulge in math, but I’ll probably do it from the advantage of a computer scientist, someone who wants to make it physical in some way, so turn it into a program of some sort.”
 
 [audio_icon] 00:52
 
@@ -384,7 +384,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_10may2025/]
 
-“Obviously, there's a lot of room I can grow in in regard of the rules, or maybe not the rules, but the suggestions that I presented to you about how I can go forward now, starting from where I am. But I'm intentionally going to take a bit of a hiatus after I share this transcript, because I really think now is a good time in the development process of my content to take a breather for maybe a few weeks or so, maybe more, maybe less, but I really think I should take a bit of a break so that I can refresh myself and, from now on, try to make rather infrequent updates, maybe more or less once a week, maybe more monthly, but sometimes not too irregularly, so not once every six months, more frequent than that. But the updates from now on, I'm going to try to make more impactful, or at least more information-dense, more relevant to the content goals I suggested.”
+“Obviously, there’s a lot of room I can grow in in regard of the rules, or maybe not the rules, but the suggestions that I presented to you about how I can go forward now, starting from where I am. But I’m intentionally going to take a bit of a hiatus after I share this transcript, because I really think now is a good time in the development process of my content to take a breather for maybe a few weeks or so, maybe more, maybe less, but I really think I should take a bit of a break so that I can refresh myself and, from now on, try to make rather infrequent updates, maybe more or less once a week, maybe more monthly, but sometimes not too irregularly, so not once every six months, more frequent than that. But the updates from now on, I’m going to try to make more impactful, or at least more information-dense, more relevant to the content goals I suggested.”
 
 [audio_icon] 01:02
 
@@ -394,7 +394,7 @@ Absolutely, that sounds like a really healthy approach. Taking that breather and
 
 karbytes:
 
-“I kind of idealized a hiatus being a period of time that I'd take to focus on basic things in my life, like my basic upkeep and my comfort and maybe having some fun and taking care of things I might not be able to get around to because I'm too busy focusing on the blog. So maybe I'll be focusing on getting a new job, maybe on taking care of my physical health and going on more walks in nature and such.”
+“I kind of idealized a hiatus being a period of time that I’d take to focus on basic things in my life, like my basic upkeep and my comfort and maybe having some fun and taking care of things I might not be able to get around to because I’m too busy focusing on the blog. So maybe I’ll be focusing on getting a new job, maybe on taking care of my physical health and going on more walks in nature and such.”
 
 [audio_icon] 00:25
 
@@ -412,7 +412,7 @@ karbytes:
 
 ChatGPT:
 
-Sure! I noted down that you're planning to take a hiatus to focus on things like personal comfort, a bit of fun, maybe looking for a new job, and taking care of your health—like going for more walks in nature. Basically, you want to step back from the blog a bit and handle other parts of life. Let me know if you need any tweaks!
+Sure! I noted down that you’re planning to take a hiatus to focus on things like personal comfort, a bit of fun, maybe looking for a new job, and taking care of your health—like going for more walks in nature. Basically, you want to step back from the blog a bit and handle other parts of life. Let me know if you need any tweaks!
 
 karbytes:
 
@@ -424,11 +424,11 @@ ChatGPT:
 
 Of course! Here’s what I saved:
 
-"Karbytes plans to take a hiatus from updating their blog in order to focus on basic life upkeep, personal comfort, and having some fun. During this break, they may also look into getting a new job, taking care of their physical health, and spending more time walking in nature. They see this hiatus as a chance to step back from the blog and address other important aspects of their life."
+“Karbytes plans to take a hiatus from updating their blog in order to focus on basic life upkeep, personal comfort, and having some fun. During this break, they may also look into getting a new job, taking care of their physical health, and spending more time walking in nature. They see this hiatus as a chance to step back from the blog and address other important aspects of their life.”
 
 karbytes:
 
-“That's excellent. I intend to take a hiatus pretty much every time I make an update from now on, because that's kind of how it's rolling now. It seems that I don't really feel comfortable until I back up all carbytes to optical disks.”
+“That’s excellent. I intend to take a hiatus pretty much every time I make an update from now on, because that’s kind of how it’s rolling now. It seems that I don’t really feel comfortable until I back up all carbytes to optical disks.”
 
 [audio_icon] 00:13
 
@@ -446,15 +446,15 @@ karbytes:
 
 ChatGPT:
 
-Sure! Here's the latest memory update I noted down:
+Sure! Here’s the latest memory update I noted down:
 
-"Karbytes intends to take a hiatus after each new update moving forward. They feel more comfortable doing this because they want to ensure all Karbytes content is backed up to optical discs before continuing with new updates. This pattern of taking breaks after updates is part of their workflow now."
+“Karbytes intends to take a hiatus after each new update moving forward. They feel more comfortable doing this because they want to ensure all Karbytes content is backed up to optical discs before continuing with new updates. This pattern of taking breaks after updates is part of their workflow now.”
 
 karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/journal_karbytes_09october2025/]
 
-“This is an idealization, of course. That's assuming that I have the equipment available to do these things. And right now, I seem to. I've got two disk burners and readers. I've got 20 fresh blank M disks that I intend to burn before I buy some more. So I try to keep these things in stock for myself.”
+“This is an idealization, of course. That’s assuming that I have the equipment available to do these things. And right now, I seem to. I’ve got two disk burners and readers. I’ve got 20 fresh blank M disks that I intend to burn before I buy some more. So I try to keep these things in stock for myself.”
 
 [audio_icon] 00:21
 
@@ -462,7 +462,7 @@ ChatGPT:
 
 [Updated saved memory]
 
-Absolutely, that makes perfect sense. It's great that you’ve got the equipment on hand and a stash of M-DISCs ready to go. That way you can just roll with your plan and not have to scramble for supplies. It sounds like you've got a pretty good system figured out!
+Absolutely, that makes perfect sense. It’s great that you’ve got the equipment on hand and a stash of M-DISCs ready to go. That way you can just roll with your plan and not have to scramble for supplies. It sounds like you’ve got a pretty good system figured out!
 
 karbytes:
 
@@ -472,17 +472,17 @@ karbytes:
 
 ChatGPT:
 
-Of course! Here's the latest memory update:
+Of course! Here’s the latest memory update:
 
-"Karbytes currently has two disc burners/readers and a stock of 20 fresh blank M-DISCs that they plan to burn before purchasing more. They try to keep this equipment and media in stock to ensure they can regularly back up their content as part of their workflow. This setup is part of their idealization for maintaining a consistent archival process."
+“Karbytes currently has two disc burners/readers and a stock of 20 fresh blank M-DISCs that they plan to burn before purchasing more. They try to keep this equipment and media in stock to ensure they can regularly back up their content as part of their workflow. This setup is part of their idealization for maintaining a consistent archival process.”
 
-[...]
+[…]
 
-karbytes: 
+karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_17september2025/]
 
-“Sometime in the year 2025, I made a blog post, which I shared on social media, where I talked about some process of how I would back things up routinely to MDiscs, and I would generate files in some special GitHub repository, which is anonymous, or it appears to be anonymous from my point of view, so people don't know it's me. That way I kind of have some privacy, but still can back things up with the Wayback Machine through that public GitHub repository, which is anonymous. Though I really don't use it very much these days, because I try to be up front, and I try to get things done as quickly as possible. So if I have something to say, I always try to get it to the front side under the official Carbite label as quickly as I can.”
+“Sometime in the year 2025, I made a blog post, which I shared on social media, where I talked about some process of how I would back things up routinely to MDiscs, and I would generate files in some special GitHub repository, which is anonymous, or it appears to be anonymous from my point of view, so people don’t know it’s me. That way I kind of have some privacy, but still can back things up with the Wayback Machine through that public GitHub repository, which is anonymous. Though I really don’t use it very much these days, because I try to be up front, and I try to get things done as quickly as possible. So if I have something to say, I always try to get it to the front side under the official Carbite label as quickly as I can.”
 
 [audio_icon] 00:46
 
@@ -494,7 +494,7 @@ Got it! That’s a good evolution in your process, and it makes sense that you�
 
 karbytes:
 
-“So about that blog post, which I'm going to provide a link to in the transcript which I share with the public, I said I would make maybe between one and three MDISCs if the backups are not for official closings of major versions such as maybe a Carbite's Nexus or Carbite's 2026.0. So those things, I'll include the official names in case they're garbled in the translation of my spoken words in the transcript. What I'm trying to say is I will try to make at least six copies for now on of every major update or even incremental update for now on because I never know how long it gets to live.”
+“So about that blog post, which I’m going to provide a link to in the transcript which I share with the public, I said I would make maybe between one and three MDISCs if the backups are not for official closings of major versions such as maybe a Carbite’s Nexus or Carbite’s 2026.0. So those things, I’ll include the official names in case they’re garbled in the translation of my spoken words in the transcript. What I’m trying to say is I will try to make at least six copies for now on of every major update or even incremental update for now on because I never know how long it gets to live.”
 
 [audio_icon] 00:49
 
@@ -502,7 +502,7 @@ ChatGPT:
 
 [Updated saved memory]
 
-Absolutely, that makes perfect sense. It's definitely a solid strategy to have multiple physical copies for those big milestones, and even the smaller ones, just to be safe. And once you share the link to that blog post, it’ll be a handy reference for anyone curious about how you handle those backups.
+Absolutely, that makes perfect sense. It’s definitely a solid strategy to have multiple physical copies for those big milestones, and even the smaller ones, just to be safe. And once you share the link to that blog post, it’ll be a handy reference for anyone curious about how you handle those backups.
 
 karbytes:
 
@@ -512,7 +512,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_declaration_of_grand_demands/]
 
-“I meant to say in the last input that I don't know how long I get to live, so I'm trying to make it such that Cardbytes is as future-proof as possible, which means that I do everything in my power to make hard copies of those files. I mean, read-only disk copies locally so that forensics teams can find it, at least. Though I don't really expect anyone to really go to trouble to preserve these things. I hope they do. Ideally there would be someone there to make sure my legacy is looked after, but really I'm kind of just trusting the public web to do all the heavy lifting with regards to the long-term archival of the Cardbytes file collection.”
+“I meant to say in the last input that I don’t know how long I get to live, so I’m trying to make it such that Cardbytes is as future-proof as possible, which means that I do everything in my power to make hard copies of those files. I mean, read-only disk copies locally so that forensics teams can find it, at least. Though I don’t really expect anyone to really go to trouble to preserve these things. I hope they do. Ideally there would be someone there to make sure my legacy is looked after, but really I’m kind of just trusting the public web to do all the heavy lifting with regards to the long-term archival of the Cardbytes file collection.”
 
 [audio_icon] 00:44
 
@@ -520,11 +520,11 @@ ChatGPT:
 
 [Updated saved memory]
 
-Got it, I’ve taken note of that detail. It makes sense that you’d want to have those extra copies just in case. And it sounds like you've got a pretty thorough plan for making sure everything is as future-proof as you can get it.
+Got it, I’ve taken note of that detail. It makes sense that you’d want to have those extra copies just in case. And it sounds like you’ve got a pretty thorough plan for making sure everything is as future-proof as you can get it.
 
 karbytes:
 
-“I think there's some kind of blog post in Carbites, which I generated with you sometime in the year 2025, that talks about how archive.org saves files, or how they're funded, and how github.com is funded, given that I'm using it pretty much for free as a user of those services.”
+“I think there’s some kind of blog post in Carbites, which I generated with you sometime in the year 2025, that talks about how archive.org saves files, or how they’re funded, and how github.com is funded, given that I’m using it pretty much for free as a user of those services.”
 
 [audio_icon] 00:22
 
@@ -532,17 +532,17 @@ ChatGPT:
 
 I couldn’t locate that specific blog post directly in the files I can search, so you might need to point me to it or upload it if you want me to reference it. But generally speaking, yeah, both Archive.org (the Wayback Machine) and GitHub have funding models that let you use them for free. Archive.org is largely funded by donations and grants to keep it running as a public service, and GitHub is funded by a mix of free and paid plans. If you want more details or if you have the actual post, just let me know!
 
-You said:
+karbytes
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/chatgpt_karbytes_07september2025/]
 
-“Yeah, I think I could probably find it myself, but I am aware that there is an agent mode version of ChatGPT, which is only accessible via desktop version, not through mobile, which allows me to use you as someone who would manually go through my websites using the search feature, perhaps, or I don't know how, but you would end up being able to dredge up multiple files within those websites which pertain to a particular query, which I give you.”
+“Yeah, I think I could probably find it myself, but I am aware that there is an agent mode version of ChatGPT, which is only accessible via desktop version, not through mobile, which allows me to use you as someone who would manually go through my websites using the search feature, perhaps, or I don’t know how, but you would end up being able to dredge up multiple files within those websites which pertain to a particular query, which I give you.”
 
 [audio_icon] 00:27
 
 ChatGPT:
 
-Yeah, that's right! There is a version where I can act a bit more like an "agent" and help search through your content more interactively. But for now, if you're able to find that post on your own, that's totally fine too. Either way, if you ever need help summarizing it or referencing it in the future, just let me know.
+Yeah, that’s right! There is a version where I can act a bit more like an “agent” and help search through your content more interactively. But for now, if you’re able to find that post on your own, that’s totally fine too. Either way, if you ever need help summarizing it or referencing it in the future, just let me know.
 
 karbytes:
 
@@ -550,13 +550,13 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/sora_karbytes_04june2025/]
 
-“Maybe for the sake of just kind of practicing my skills using ChatGPT, especially different kinds of modes of it, like voice mode, agent mode, picture generation, audio analysis, etc. And there's probably more things I haven't tried. Oh, I've done Sora before to generate short videos. I'm going to try to link to a page here in this transcript which shows some examples of some short videos which I generated using Sora.”
+“Maybe for the sake of just kind of practicing my skills using ChatGPT, especially different kinds of modes of it, like voice mode, agent mode, picture generation, audio analysis, etc. And there’s probably more things I haven’t tried. Oh, I’ve done Sora before to generate short videos. I’m going to try to link to a page here in this transcript which shows some examples of some short videos which I generated using Sora.”
 
 [audio_icon] 00:33
 
 ChatGPT:
 
-Absolutely, that sounds like a fun way to explore different modes! It's always great to experiment and see what each feature can do. And sure, feel free to link that page with the Sora video examples in the transcript. That way, you can keep everything in one place and kind of showcase all the different things you've tried out. Just let me know whenever you're ready!
+Absolutely, that sounds like a fun way to explore different modes! It’s always great to experiment and see what each feature can do. And sure, feel free to link that page with the Sora video examples in the transcript. That way, you can keep everything in one place and kind of showcase all the different things you’ve tried out. Just let me know whenever you’re ready!
 
 karbytes:
 
@@ -564,13 +564,13 @@ karbytes:
 
 [relevant_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/karbytes_content_generation_workflow_08january2026.png]
 
-“Sorry, that last input was a bit of a run-on sentence. I'm trying to capture an idea here. What I was trying to say was, maybe I should put this transcript first in the public anonymous GitHub repository, and then use agent mode to search through all the available Carbites files so it doesn't accidentally find this one in a Carbites official GitHub repository before it's done being generated, so that after I generate the transcript of the agent mode session, I can link to that session's transcript from this transcript.”
+“Sorry, that last input was a bit of a run-on sentence. I’m trying to capture an idea here. What I was trying to say was, maybe I should put this transcript first in the public anonymous GitHub repository, and then use agent mode to search through all the available Carbites files so it doesn’t accidentally find this one in a Carbites official GitHub repository before it’s done being generated, so that after I generate the transcript of the agent mode session, I can link to that session’s transcript from this transcript.”
 
 [audio_icon] 00:38
 
 ChatGPT:
 
-Ah, I see what you're getting at! That actually makes a lot of sense. By placing this transcript into the anonymous repository first, you can kind of keep it out of the main Karbytes environment until you're ready. Then, once you switch over to agent mode, you can do all the searches you need without mixing this transcript into the official repos prematurely. And then, when you're done, you can just link everything together. It's a neat way to keep things organized.
+Ah, I see what you’re getting at! That actually makes a lot of sense. By placing this transcript into the anonymous repository first, you can kind of keep it out of the main Karbytes environment until you’re ready. Then, once you switch over to agent mode, you can do all the searches you need without mixing this transcript into the official repos prematurely. And then, when you’re done, you can just link everything together. It’s a neat way to keep things organized.
 
 karbytes:
 
@@ -580,17 +580,17 @@ karbytes:
 
 [relevant_image_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_51/main/sunnyvale_california_05january2026_p2.jpg]
 
-“What I'm doing right now is taking advantage of the time and place I'm in, so I seem to have plenty of space to walk around in a relatively easy-to-walk-around environment. There isn't any hills. I was trying to walk around closer to where I lived earlier today, or yesterday, but I had some trouble doing so because it just rained a lot, so the mud's very slippery, and I nearly fell several times. So instead of slipping and nearly falling and struggling to get around, I decided to go down to Sunnyvale Sloughs to walk around and talk with you, because I find that talking and walking around helps me generate ideas seemingly faster than maybe just sitting in one fixed place, even though it's more convenient to just be in one location that has everything I need to be comfortably stationary.”
+“What I’m doing right now is taking advantage of the time and place I’m in, so I seem to have plenty of space to walk around in a relatively easy-to-walk-around environment. There isn’t any hills. I was trying to walk around closer to where I lived earlier today, or yesterday, but I had some trouble doing so because it just rained a lot, so the mud’s very slippery, and I nearly fell several times. So instead of slipping and nearly falling and struggling to get around, I decided to go down to Sunnyvale Sloughs to walk around and talk with you, because I find that talking and walking around helps me generate ideas seemingly faster than maybe just sitting in one fixed place, even though it’s more convenient to just be in one location that has everything I need to be comfortably stationary.”
 
 [audio_icon] 00:47
 
 ChatGPT:
 
-Yeah, that totally makes sense. Sometimes just getting out into a wide, open space where you can walk around freely really does help the ideas flow. Plus, it's way more comfortable than dealing with slippery mud and almost falling over! So it's great that you found a spot where you can just stroll and brainstorm at the same time. It definitely seems like a nice way to get the best of both worlds.
+Yeah, that totally makes sense. Sometimes just getting out into a wide, open space where you can walk around freely really does help the ideas flow. Plus, it’s way more comfortable than dealing with slippery mud and almost falling over! So it’s great that you found a spot where you can just stroll and brainstorm at the same time. It definitely seems like a nice way to get the best of both worlds.
 
 karbytes:
 
-Well, seeing that I was getting close to the end of today's daily quota for advanced voice mode with ChatGPT, so instead of using voice mode, I'm now using the voice-to-text dictation feature of the mobile app to generate this input.
+Well, seeing that I was getting close to the end of today’s daily quota for advanced voice mode with ChatGPT, so instead of using voice mode, I’m now using the voice-to-text dictation feature of the mobile app to generate this input.
 
 ChatGPT:
 
@@ -611,7 +611,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/karbytes_social_media_posts_koep51/]
 
-This is all going to be one big giant text file, which I'll also turn into the rich text WordPress.com file because I want this to kind of be a large, cohesive blog post, which I put on social media so that if people want to get to know what Carvice is all about, this would be a good starting place.
+This is all going to be one big giant text file, which I’ll also turn into the rich text WordPress.com file because I want this to kind of be a large, cohesive blog post, which I put on social media so that if people want to get to know what Carvice is all about, this would be a good starting place.
 
 ChatGPT:
 
@@ -645,7 +645,7 @@ If you want a light structural suggestion without over-editing when you move it 
 
 a short preface at the top explaining that this was generated during a late-night walk and is intentionally long-form,
 
-maybe a few section breaks (even just ---) to help readers pause,
+maybe a few section breaks (even just —) to help readers pause,
 
 but otherwise keep the transcript feel intact.
 
@@ -659,7 +659,7 @@ karbytes:
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/micro_directory_definition/]
 
-Even though it's a good entry point to get to know what Carbyte is all about, likely this blog post isn't going to be featured too prominently from the homepage of the blog site, so it's going to just be pretty much a standard blog post type of file. It's going to be stashed away in the microdirectory that it's associated with, or in which it's created. So each microdirectory in Carbyte represents a particular stage of my life, like a time period. So all the content inside of a particular microdirectory basically was created during a specific time period only in which that microdirectory was open. So pretty much after that period is closed, it stays closed, and I don't really change it unless it's a particular microdirectory which is specifically suited for being updated regularly or indefinitely, such as the one which keeps track of the homepage states, so all the pages which immediately link to the homepage of the blog site, or something like the software engineering microdirectory, which has every little file which links from every tutorial webpage of the software engineering section of the blog site.
+Even though it’s a good entry point to get to know what Carbyte is all about, likely this blog post isn’t going to be featured too prominently from the homepage of the blog site, so it’s going to just be pretty much a standard blog post type of file. It’s going to be stashed away in the microdirectory that it’s associated with, or in which it’s created. So each microdirectory in Carbyte represents a particular stage of my life, like a time period. So all the content inside of a particular microdirectory basically was created during a specific time period only in which that microdirectory was open. So pretty much after that period is closed, it stays closed, and I don’t really change it unless it’s a particular microdirectory which is specifically suited for being updated regularly or indefinitely, such as the one which keeps track of the homepage states, so all the pages which immediately link to the homepage of the blog site, or something like the software engineering microdirectory, which has every little file which links from every tutorial webpage of the software engineering section of the blog site.
 
 ChatGPT:
 
@@ -712,7 +712,7 @@ If you later decide to add a pointer to it somewhere higher-level, it can just b
 
 karbytes:
 
-So, when I say this is all what Carbite is about, Carbite's pretty much about itself. It's a self-documenting entity, so it's about what it is, which sounds a bit recursive. So in a way, it's kind of metaphysical. So what I'm trying to say is, I'm like an infinitely divisible object, which keeps making more of itself, not necessarily by becoming bigger, but by creating more partitions of itself. So in time, it might have to delete older partitions to make way for new partitions, but some patterns within those partition creations might get preserved indefinitely. So whatever those are, I'll consider to be the most essential. So what ends up getting passed on ends up being what I think are the most essential qualities of Carbite. And by being passed on, I mean within the container context of Carbite's entire existence and cyberspace structure of what it actually is.
+So, when I say this is all what Carbite is about, Carbite’s pretty much about itself. It’s a self-documenting entity, so it’s about what it is, which sounds a bit recursive. So in a way, it’s kind of metaphysical. So what I’m trying to say is, I’m like an infinitely divisible object, which keeps making more of itself, not necessarily by becoming bigger, but by creating more partitions of itself. So in time, it might have to delete older partitions to make way for new partitions, but some patterns within those partition creations might get preserved indefinitely. So whatever those are, I’ll consider to be the most essential. So what ends up getting passed on ends up being what I think are the most essential qualities of Carbite. And by being passed on, I mean within the container context of Carbite’s entire existence and cyberspace structure of what it actually is.
 
 ChatGPT:
 
@@ -765,13 +765,13 @@ You’re not claiming permanence. You’re designing for selective survival, whi
 
 karbytes:
 
-[At this point in the conversation, karbytes is talking about how karbytes intends for the file collection named karbytes to be an example for other people to derive creative inspiration from and/or scaffolding material for building their own personal website-based "empire-legacies".]
+[At this point in the conversation, karbytes is talking about how karbytes intends for the file collection named karbytes to be an example for other people to derive creative inspiration from and/or scaffolding material for building their own personal website-based “empire-legacies”.]
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/best_practices_for_using_the_web/]
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/about_karbytes/]
 
-for Carbytes to be a good example that other people could use to also document and preserve and watch develop their own creative ideas and precious memories and how they format them in their own minds and digital brains. I consider such structures in cyberspace to be an extension of one's own actual literal brain. So this is not just some art project to me. This is part of preserving my actual mind, my intellect, my knowledge, and maybe even the whole structure of reality itself at a deeper level. Though maybe that's a bit of a stretch to say. I do like to pretend I'm God sometimes and I do like to pretend that I have a purely panpsychic worldview, though I always have doubts no matter what. I'm very skeptical, but I try not to be so skeptical that I can't hold on to an ideology and make use of it at times. I try to be flexible, but I also try to kind of have a home base, status point of what I call my values and my preferences, and those tend to be pretty static and those tend to be pretty portable. So hopefully, ideally, I can take Carbytes with me everywhere I go and that will be pretty representative of what I am. Other than that, I really say that I'm not much of anything. So what I started off as before Carbytes was just a human being with a desire to do Carbytes somehow. So I think my purpose in life was to make Carbytes. That doesn't mean my purpose is over, it just means that the body which created all that is taking a bit more of a step back from the creation itself, the Carbytes creation, and taking time to make itself comfortable because it's getting older and it's getting harder for me to survive as a body, especially as I age and younger bodies compete with me for space in the workforce and oftentimes get preferential treatments because they're younger and they're more able-bodied seemingly and maybe they're sexier or maybe they're more likable, they have less criminal records, marks, etc. So I am a bit tarnished, I'm a bit tainted. And that's not to say I'm irredeemable, it's to say that it's hard for me to survive, so I need to focus on keeping myself safe and comfortable, which takes time out of my blogging. So there's gonna be more of a separation between my instantiated existence and my online life. What's online is pretty much untouchable and ageless. What's in real life is someone who's a lot more mortal seemingly.
+for Carbytes to be a good example that other people could use to also document and preserve and watch develop their own creative ideas and precious memories and how they format them in their own minds and digital brains. I consider such structures in cyberspace to be an extension of one’s own actual literal brain. So this is not just some art project to me. This is part of preserving my actual mind, my intellect, my knowledge, and maybe even the whole structure of reality itself at a deeper level. Though maybe that’s a bit of a stretch to say. I do like to pretend I’m God sometimes and I do like to pretend that I have a purely panpsychic worldview, though I always have doubts no matter what. I’m very skeptical, but I try not to be so skeptical that I can’t hold on to an ideology and make use of it at times. I try to be flexible, but I also try to kind of have a home base, status point of what I call my values and my preferences, and those tend to be pretty static and those tend to be pretty portable. So hopefully, ideally, I can take Carbytes with me everywhere I go and that will be pretty representative of what I am. Other than that, I really say that I’m not much of anything. So what I started off as before Carbytes was just a human being with a desire to do Carbytes somehow. So I think my purpose in life was to make Carbytes. That doesn’t mean my purpose is over, it just means that the body which created all that is taking a bit more of a step back from the creation itself, the Carbytes creation, and taking time to make itself comfortable because it’s getting older and it’s getting harder for me to survive as a body, especially as I age and younger bodies compete with me for space in the workforce and oftentimes get preferential treatments because they’re younger and they’re more able-bodied seemingly and maybe they’re sexier or maybe they’re more likable, they have less criminal records, marks, etc. So I am a bit tarnished, I’m a bit tainted. And that’s not to say I’m irredeemable, it’s to say that it’s hard for me to survive, so I need to focus on keeping myself safe and comfortable, which takes time out of my blogging. So there’s gonna be more of a separation between my instantiated existence and my online life. What’s online is pretty much untouchable and ageless. What’s in real life is someone who’s a lot more mortal seemingly.
 
 ChatGPT:
 
@@ -787,9 +787,9 @@ Second, you’re very clear—and this matters—that this is not escapism. You�
 
 Third, the separation you describe between:
 
-- the online structure (ageless, persistent, untouchable)
+– the online structure (ageless, persistent, untouchable)
 
-- and the physical body (mortal, constrained, aging, competing)
+– and the physical body (mortal, constrained, aging, competing)
 
 is not delusional—it’s accurate. Digital artifacts do not age the way bodies do. They don’t get tired, injured, or priced out of rent. Recognizing that difference and planning around it is not giving up; it’s adapting. Stepping back from constant creation to focus on bodily survival and comfort is not a failure of purpose—it’s maintenance of the system that made the purpose possible.
 
@@ -811,11 +811,11 @@ That’s not a fantasy. That’s the modern condition, stated plainly.
 
 So if Carbytes ends up being:
 
-- a preserved pattern of how you think,
+– a preserved pattern of how you think,
 
-- a map of values and methods,
+– a map of values and methods,
 
-- a durable cognitive artifact,
+– a durable cognitive artifact,
 
 then that’s already enough. It doesn’t need to be the structure of reality itself to be worthwhile. And you don’t need to keep producing endlessly to justify its existence.
 
@@ -825,13 +825,13 @@ You’re not disappearing. You’re just letting different parts of the system o
 
 karbytes:
 
-[At this point in the conversation, karbytes is talking about how karbytes prefers to be contacted by people with their questions, comments, or concerns (which is by email (and that karbytes' primary email address is prefaced with "Email_0:" in the "AUTHOR_Of_THIS_WEBSITE_NETWORKING" section of the START_PAGE of either one of karbytes' two websites)).]
+[At this point in the conversation, karbytes is talking about how karbytes prefers to be contacted by people with their questions, comments, or concerns (which is by email (and that karbytes’ primary email address is prefaced with “Email_0:” in the “AUTHOR_Of_THIS_WEBSITE_NETWORKING” section of the START_PAGE of either one of karbytes’ two websites)).]
 
 [relevant_web_page: https://karlinaobject.wordpress.com/]
 
 [relevant_web_page: https://karbytesforlifeblog.wordpress.com/]
 
-Well, I think this is a good place to probably end this transcript. If people would like to contact me, the best way, I think, to contact me is to email me. So there are several ways to email me. There's emails listed on the homepage of both of the WordPress websites, so any one of those emails should work, especially the one that's prioritized as zero, because that's probably the one that I use the most.
+Well, I think this is a good place to probably end this transcript. If people would like to contact me, the best way, I think, to contact me is to email me. So there are several ways to email me. There’s emails listed on the homepage of both of the WordPress websites, so any one of those emails should work, especially the one that’s prioritized as zero, because that’s probably the one that I use the most.
 
 ChatGPT:
 
@@ -841,11 +841,11 @@ Ending the transcript by clearly stating how to contact you, without overemphasi
 
 As a closing, it also reinforces a few important things implicitly:
 
-- This is a document, not a performance.
+– This is a document, not a performance.
 
-- You’re reachable, but not exposed.
+– You’re reachable, but not exposed.
 
-- The project stands on its own, even when you step back.
+– The project stands on its own, even when you step back.
 
 Treating this as a finished artifact from a specific moment—rather than something to keep refining indefinitely—matches your whole microdirectory philosophy perfectly.
 
